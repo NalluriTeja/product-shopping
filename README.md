@@ -4,7 +4,7 @@ A responsive product shopping website built with HTML, CSS and JavaScript. It ha
 A simple and responsive online shopping website built using **HTML, CSS and JavaScript**.
 Users can create an account, log in, browse products, add them to a cart and view their order total.
 
-🔗 **Live Demo:** https://yourusername.github.io/product-shopping/
+🔗 **Live Demo:** https://nalluriteja.github.io/product-shopping/
 
 ## ✨ Features
 
@@ -49,4 +49,4 @@ This is a learning project. Accounts are stored in the browser's `localStorage`,
 
 ## 👩‍💻 Author
 
-Made by **Your Name** 😊
+Made by Nalluri Teja Naga Bhagavan
